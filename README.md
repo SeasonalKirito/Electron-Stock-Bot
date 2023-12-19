@@ -12,3 +12,5 @@ from config import config
 import os
 import asyncio
 ```
+# Information
+I will not be updateing this anymore and thanks "benoxav" for yapping for me to release this.
